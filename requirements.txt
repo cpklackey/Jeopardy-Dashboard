@@ -1,1 +1,1 @@
-pip install wordcloud.
+wordcloud.
